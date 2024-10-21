@@ -85,7 +85,7 @@
                 <div class="tutor-list">
                     <div class="kartu-tutor">
                         <img src="foto/4.jpg    "/>
-                        <p>Joko Moore, S.Si., M.Stat.</p>
+                        <p>Joko Wiliam, S.Si., M.Stat.</p>
                     </div>
                     <div class="kartu-tutor">
                         <img src="foto/5.jpg"/>
@@ -93,11 +93,11 @@
                     </div>
                     <div class="kartu-tutor">
                         <img src="foto/6.jpg"/>
-                        <p>Leonardo Decepticon</p>
+                        <p>Leonardo Decepticon, S.Aktr., MSP.</p>
                     </div>
                     <div class="kartu-tutor">
                         <img src="foto/7.jpg"/>
-                        <p>Bruce Wills</p>
+                        <p>Selvi Ananda, S.Mat, M.Mat.</p>
                     </div>
                 </div>
             </div>
